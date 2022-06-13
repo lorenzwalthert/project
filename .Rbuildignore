@@ -1,5 +1,6 @@
-^project\.Rproj$
 ^\.Rproj\.user$
-^project\.Rcheck$
+^\.pre-commit-config\.yaml$
 ^project.*\.tar\.gz$
 ^project.*\.tgz$
+^project\.Rcheck$
+^project\.Rproj$
